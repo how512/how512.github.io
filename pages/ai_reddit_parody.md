@@ -6,7 +6,7 @@ r/aicompanyname
 
 Title: 💥🤯🤯  Modelname +.1 : The Ground Breaking Update You’ve Been Waiting For.
 
-Body: <random_image_from_the_blogpost>
+Body: (random image from the blogpost)
 
 CompanyName has unveiled **Model+.1**, a revolutionary update to CompanyName's Artificial Intelligence Ai Large Language Model that leaves Competitor's **Model** in ashes. 
 
