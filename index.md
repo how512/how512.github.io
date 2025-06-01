@@ -6,3 +6,5 @@ for as long as i remember, my friends' DMs were filled with a shit ton of my tex
 ## test link 
 
 [ai reddit parody](pages/ai_reddit_parody.md)
+
+[tiktok gatekeeping](pages/tiktok_gatekeeping.md)
