@@ -5,8 +5,11 @@ for as long as i remember, my friends' DMs were filled with a shit ton of my tex
 
 ---
 
-<h1>new writeup</h1> <small>if you can call it that</small>
-
+<p>
+  
+  <span style="font-size: 36px;">new writeup</span>
+  <span style="font-size: 10px;">, if you can call it that</span>
+</p>
 [the internet i miss](pages/the_internet_i_miss.md)
 
 ---
