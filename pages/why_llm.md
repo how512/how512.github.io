@@ -2,7 +2,7 @@
 
 # why LLMs suck at mental advice
 
-they truly do, 
+they truly do, <br>
 and, 
 unless something fundamentally changes,
 it's gonna stay this way,
